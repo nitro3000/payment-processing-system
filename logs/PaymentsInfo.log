@@ -1,0 +1,6 @@
+21:29:38.466 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
+21:32:09.006 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
+21:33:37.470 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
+21:34:22.281 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
+21:35:53.331 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
+22:14:31.258 CUSTOM_PATTERN [main] INFO  c.g.p.v.PaymentValidatorService - Payment validated, payment ID: 10001
